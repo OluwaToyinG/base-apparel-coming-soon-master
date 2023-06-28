@@ -7,6 +7,7 @@ module.exports = {
         'desaturated-red': '#CE9797',
         'soft-red': '#F96262',
         'dark-grayish-red': '#413A3A',
+        'flirty-bee': '#0000FF, #FF0000',
 
       },
 
@@ -14,6 +15,9 @@ module.exports = {
         'josefin-sans': ['Josefin Sans', 'sans-serif'],
       },
       
+      gradientColorStops: {
+        
+      },
   },
   },
   plugins: [],
